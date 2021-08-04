@@ -6,3 +6,4 @@
 2. 切换 macOS 下的 github 用户
 3. 远程更新代码
 4. typora+upic+腾讯云图床实现图片能在 github 上显示
+5. git clone 一直 fail to connect 1086 port 问题解决 本质是 git 也有自己的想法
